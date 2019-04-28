@@ -1,5 +1,7 @@
 ## Amrita-CEN-SentiDB
 
+We are happy to share our Amrita-CEN-SentiDB dataset. However, in order to prevent any misuse, we kindly ask you to send us a mail to naveensivakumarr[@]gmail.com  stating your identity and research scope. We will then send you the login credentials.
+
 # If you are in academia
 
 1. If you are a student, please ask your advisor to send us an email for the access. If you are a faculty, please send us the email from your university's email account.
