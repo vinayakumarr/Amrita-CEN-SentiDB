@@ -14,6 +14,10 @@ We are happy to share our Amrita-CEN-SentiDB dataset. However, in order to preve
 
 2. Please also attach a justification letter (PDF) in official letterhead. The justification letter needs to acknowledge the Amrita-CEN-SentiDB project from the Amrita Vishwa Vidyapeetham, Coimbatore and state clearly the reasons why the dataset is being requested. Also, acknowledge that the dataset will not be shared to others without our permission.
 
+### Research Papers
+
+1. Naveenkumar K S, Vinayakumar R, Soman K P, "Amrita-CEN-SentiDB:Twitter Dataset for Sentimental Analysis and Application of Classical Machine Learning and Deep Learning", International Conference on Intelligent Computing and Control Systems [ICICCS 2019], Vaigai College of Engineering (Accepted)
+
 ### Support or Contact
 
 Having trouble with Pages? Check out [here](https://vinayakumarr.github.io/), [Cybersecurity-Lab-at-CEN](https://vinayakumarr.github.io/Cybersecurity-Lab-at-CEN/), CEN, Amrita Vishwa Vidyapeetham
