@@ -16,7 +16,7 @@ We are happy to share our Amrita-CEN-SentiDB dataset. However, in order to preve
 
 ### Research Papers
 
-1. Naveenkumar K S, Vinayakumar R, Soman K P, "Amrita-CEN-SentiDB:Twitter Dataset for Sentimental Analysis and Application of Classical Machine Learning and Deep Learning", International Conference on Intelligent Computing and Control Systems [ICICCS 2019], Vaigai College of Engineering (Accepted)
+1. Naveenkumar K S, Vinayakumar R, Soman K P, "Amrita-CEN-SentiDB:Twitter Dataset for Sentimental Analysis and Application of Classical Machine Learning and Deep Learning", International Conference on Intelligent Computing and Control Systems [ICICCS 2019], Vaigai College of Engineering [PPT](https://github.com/vinayakumarr/Amrita-CEN-SentiDB1/blob/master/IIT_Kanpur_Naveen.pdf)
 
 ### Support or Contact
 
